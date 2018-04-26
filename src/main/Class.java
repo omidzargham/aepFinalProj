@@ -36,4 +36,31 @@ public class Class {
     public double computeGradePoints() {
         return units * gradeToGradePointPerUnit.get(grade);
     }
+
+
+    public static double calculateGPA(Class[] myClasses) {
+        double sumGradePoints = 0.0;
+        double currentSemUnits = 0.0;
+        for (Class thisClass: myClasses) {
+            double thisClassGradePoints = thisClass.computeGradePoints();
+            sumGradePoints += thisClassGradePoints;
+            currentSemUnits += thisClass.units;
+        }
+        if (currentSemUnits <= 0) {
+            return 0.0;
+        }
+        else {
+            return sumGradePoints / currentSemUnits;
+        }
+    }
+
+    public static double calculateGPA(double oldGPA, double previousUnits, Class[] myClasses) {
+        double totalGradePoints = oldGPA * previousUnits;
+        double currentSemUnits = 0.0;
+        for (Class thisClass: myClasses) {
+            totalGradePoints += thisClass.computeGradePoints();
+            currentSemUnits += thisClass.units;
+        }
+        return totalGradePoints / previousUnits + currentSemUnits;
+    }
 }
