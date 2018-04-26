@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8239fdd6-6bfe-48d8-8c40-84710298b985" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Class.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/main/ClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/main/ClassTest.java" afterDir="false" />
     </list>
@@ -16,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ClassTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ClassTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/main/ClassTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="285">
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -28,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Class.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Class.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="180">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#434#435#0" expanded="true" />
                 <element signature="e#500#501#0" expanded="true" />
@@ -60,8 +59,8 @@
         <option value="$PROJECT_DIR$/test/main/TwitterBotTest.java" />
         <option value="$PROJECT_DIR$/src/main/gpaCalculator.java" />
         <option value="$PROJECT_DIR$/test/main/gpaCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/test/main/ClassTest.java" />
         <option value="$PROJECT_DIR$/src/main/Class.java" />
+        <option value="$PROJECT_DIR$/test/main/ClassTest.java" />
       </list>
     </option>
   </component>
@@ -189,6 +188,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="ClassTest.FGradeAnd2UnitsShouldBe0Point0GradePoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ACTUALFINAL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.ClassTest" />
+      <option name="METHOD_NAME" value="FGradeAnd2UnitsShouldBe0Point0GradePoints" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -260,10 +282,12 @@
       <item itemvalue="JUnit.gpaCalculatorTest.OneGroupOfPeopleShouldBeOneGroup" />
       <item itemvalue="JUnit.ClassTest.AGradeAnd1UnitShouldBe4Point0GradePoints" />
       <item itemvalue="JUnit.ClassTest" />
+      <item itemvalue="JUnit.ClassTest.FGradeAnd2UnitsShouldBe0Point0GradePoints" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ClassTest" />
+        <item itemvalue="JUnit.ClassTest.FGradeAnd2UnitsShouldBe0Point0GradePoints" />
         <item itemvalue="JUnit.ClassTest.AGradeAnd1UnitShouldBe4Point0GradePoints" />
         <item itemvalue="JUnit.gpaCalculatorTest.OneGroupOfPeopleShouldBeOneGroup" />
       </list>
@@ -283,27 +307,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ClassTest - 2018.04.26 at 11h 06m 22s.xml">
-      <configuration name="ClassTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClassTest - 2018.04.26 at 11h 07m 01s.xml">
-      <configuration name="ClassTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClassTest - 2018.04.26 at 11h 07m 59s.xml">
-      <configuration name="ClassTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClassTest - 2018.04.26 at 11h 08m 06s.xml">
-      <configuration name="ClassTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClassTest - 2018.04.26 at 11h 08m 30s.xml">
-      <configuration name="ClassTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClassTest - 2018.04.26 at 11h 08m 34s.xml">
-      <configuration name="ClassTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClassTest - 2018.04.26 at 11h 18m 01s.xml">
-      <configuration name="ClassTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ClassTest - 2018.04.26 at 11h 20m 55s.xml">
       <configuration name="ClassTest" configurationId="JUnit" />
     </history-entry>
@@ -311,6 +314,27 @@
       <configuration name="ClassTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ClassTest - 2018.04.26 at 11h 21m 39s.xml">
+      <configuration name="ClassTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest - 2018.04.26 at 11h 24m 31s.xml">
+      <configuration name="ClassTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest_FGradeAnd2UnitsShouldBe0Point0GradePoints - 2018.04.26 at 11h 24m 42s.xml">
+      <configuration name="ClassTest.FGradeAnd2UnitsShouldBe0Point0GradePoints" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest_FGradeAnd2UnitsShouldBe0Point0GradePoints - 2018.04.26 at 11h 25m 35s.xml">
+      <configuration name="ClassTest.FGradeAnd2UnitsShouldBe0Point0GradePoints" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest_FGradeAnd2UnitsShouldBe0Point0GradePoints - 2018.04.26 at 11h 25m 46s.xml">
+      <configuration name="ClassTest.FGradeAnd2UnitsShouldBe0Point0GradePoints" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest - 2018.04.26 at 11h 25m 49s.xml">
+      <configuration name="ClassTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest - 2018.04.26 at 11h 26m 00s.xml">
+      <configuration name="ClassTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest - 2018.04.26 at 11h 26m 13s.xml">
       <configuration name="ClassTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -385,23 +409,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/main/ClassTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="180">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Class.java">
+    <entry file="file://$PROJECT_DIR$/test/main/ClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="285">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
           <folding>
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
