@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8239fdd6-6bfe-48d8-8c40-84710298b985" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Class.java" afterDir="false" />
-    </list>
+    <list default="true" id="8239fdd6-6bfe-48d8-8c40-84710298b985" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gpaCalculatorTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gpaCalculatorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/main/gpaCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gpaCalculator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gpaCalculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/gpaCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="300">
+              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
               <folding>
                 <element signature="e#173#174#0" expanded="true" />
                 <element signature="e#214#215#0" expanded="true" />
@@ -83,8 +81,8 @@
         <option value="$PROJECT_DIR$/test/main/TwitterBotTest.java" />
         <option value="$PROJECT_DIR$/test/main/ClassTest.java" />
         <option value="$PROJECT_DIR$/src/main/Class.java" />
-        <option value="$PROJECT_DIR$/test/main/gpaCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/gpaCalculator.java" />
+        <option value="$PROJECT_DIR$/test/main/gpaCalculatorTest.java" />
       </list>
     </option>
   </component>
@@ -350,35 +348,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="gpaCalculatorTest_APlusGradeAnd1UnitShouldBe4Point0GradePoints - 2018.04.26 at 11h 50m 16s.xml">
-      <configuration name="gpaCalculatorTest.APlusGradeAnd1UnitShouldBe4Point0GradePoints" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gpaCalculatorTest_APlusGradeAnd1UnitShouldBe4Point0GradePoints - 2018.04.26 at 11h 50m 20s.xml">
-      <configuration name="gpaCalculatorTest.APlusGradeAnd1UnitShouldBe4Point0GradePoints" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gpaCalculatorTest_APlusGradeAnd1UnitShouldBe4Point0GradePoints - 2018.04.26 at 13h 10m 01s.xml">
-      <configuration name="gpaCalculatorTest.APlusGradeAnd1UnitShouldBe4Point0GradePoints" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gpaCalculatorTest_OneAPlusClassShouldBeA4Point0GPA - 2018.04.26 at 13h 10m 07s.xml">
-      <configuration name="gpaCalculatorTest.OneAPlusClassShouldBeA4Point0GPA" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gpaCalculatorTest_OneAPlusClassShouldBeA4Point0GPA - 2018.04.26 at 13h 10m 13s.xml">
-      <configuration name="gpaCalculatorTest.OneAPlusClassShouldBeA4Point0GPA" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gpaCalculatorTest_OneAPlusClassShouldBeA4Point0GPA - 2018.04.26 at 13h 10m 19s.xml">
-      <configuration name="gpaCalculatorTest.OneAPlusClassShouldBeA4Point0GPA" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gpaCalculatorTest_OneAPlusClassShouldBeA4Point0GPA - 2018.04.26 at 13h 11m 53s.xml">
-      <configuration name="gpaCalculatorTest.OneAPlusClassShouldBeA4Point0GPA" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gpaCalculatorTest_ZeroClassesShouldBeA0Point0GPA - 2018.04.26 at 13h 11m 56s.xml">
+    <history-entry file="gpaCalculatorTest_ZeroClassesShouldBeA0Point0GPA - 2018.04.26 at 13h 13m 44s.xml">
       <configuration name="gpaCalculatorTest.ZeroClassesShouldBeA0Point0GPA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="gpaCalculatorTest_ZeroClassesShouldBeA0Point0GPA - 2018.04.26 at 13h 12m 46s.xml">
+    <history-entry file="gpaCalculatorTest_ZeroClassesShouldBeA0Point0GPA - 2018.04.26 at 13h 13m 46s.xml">
       <configuration name="gpaCalculatorTest.ZeroClassesShouldBeA0Point0GPA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="gpaCalculatorTest_ZeroClassesShouldBeA0Point0GPA - 2018.04.26 at 13h 12m 59s.xml">
+    <history-entry file="gpaCalculatorTest_ZeroClassesShouldBeA0Point0GPA - 2018.04.26 at 13h 13m 51s.xml">
       <configuration name="gpaCalculatorTest.ZeroClassesShouldBeA0Point0GPA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="gpaCalculatorTest_ZeroClassesShouldBeA0Point0GPA - 2018.04.26 at 13h 14m 00s.xml">
+      <configuration name="gpaCalculatorTest.ZeroClassesShouldBeA0Point0GPA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="gpaCalculatorTest_ZeroClassesShouldBeA0Point0GPA - 2018.04.26 at 13h 14m 04s.xml">
+      <configuration name="gpaCalculatorTest.ZeroClassesShouldBeA0Point0GPA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="gpaCalculatorTest_ZeroClassesShouldBeA0Point0GPA - 2018.04.26 at 13h 14m 07s.xml">
+      <configuration name="gpaCalculatorTest.ZeroClassesShouldBeA0Point0GPA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="gpaCalculatorTest_ZeroClassesShouldBeA0Point0GPA - 2018.04.26 at 13h 15m 01s.xml">
+      <configuration name="gpaCalculatorTest.ZeroClassesShouldBeA0Point0GPA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="gpaCalculatorTest - 2018.04.26 at 13h 15m 03s.xml">
+      <configuration name="gpaCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest - 2018.04.26 at 13h 15m 15s.xml">
+      <configuration name="ClassTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="gpaCalculatorTest - 2018.04.26 at 13h 15m 20s.xml">
+      <configuration name="gpaCalculatorTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -418,15 +416,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/gpaCalculator.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -479,23 +469,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/main/gpaCalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/gpaCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="300">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/gpaCalculator.java">
+    <entry file="file://$PROJECT_DIR$/test/main/gpaCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

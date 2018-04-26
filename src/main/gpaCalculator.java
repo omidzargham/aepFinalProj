@@ -1,6 +1,6 @@
 package main;
 
-/** JOB: Understands GPA calculation. **/
+/** JOB: Understands how to compute a GPA. **/
 public class gpaCalculator {
 
     private final Class[] myClasses;

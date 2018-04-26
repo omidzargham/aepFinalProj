@@ -13,4 +13,12 @@ public class gpaCalculatorTest {
         assertEquals(0.0, myCalc.calculateGPA(0), .01);
     }
 
+    @Test
+    public void OneAPlusClassShouldBeA4Point0GPA() {
+        Class Chemistry = new Class(4, "A+");
+        Class[] myClasses = new Class[] {Chemistry};
+        gpaCalculator myCalc = new gpaCalculator(myClasses);
+        assertEquals(4.0, myCalc.calculateGPA(4), .01);
+    }
+
 }
