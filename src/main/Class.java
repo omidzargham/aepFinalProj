@@ -9,6 +9,11 @@ public class Class {
     static
     {
         gradeToGradePointPerUnit.put("A+", 4.0);
+        gradeToGradePointPerUnit.put("A", 4.0);
+        gradeToGradePointPerUnit.put("A-", 3.7);
+        gradeToGradePointPerUnit.put("B+", 3.3);
+        gradeToGradePointPerUnit.put("B", 3.0);
+        gradeToGradePointPerUnit.put("B-", 2.7);
     }
 
     private double units;
