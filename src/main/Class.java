@@ -2,6 +2,7 @@ package main;
 
 import java.util.HashMap;
 
+/** JOB: Understands a single course. **/
 public class Class {
 
     private static final HashMap<String, Double> gradeToGradePointPerUnit = new HashMap<>();

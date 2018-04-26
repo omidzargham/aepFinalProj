@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8239fdd6-6bfe-48d8-8c40-84710298b985" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/main/ClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/main/ClassTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,13 +14,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ClassTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClassTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/main/ClassTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+            <state relative-caret-position="210">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gpaCalculatorTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/main/gpaCalculatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gpaCalculator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/gpaCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding>
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -30,11 +54,11 @@
       <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Class.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="-56">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
               <folding>
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#1029#1030#0" expanded="true" />
+                <element signature="e#1095#1096#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,10 +81,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/TwitterBot.java" />
         <option value="$PROJECT_DIR$/test/main/TwitterBotTest.java" />
-        <option value="$PROJECT_DIR$/src/main/gpaCalculator.java" />
-        <option value="$PROJECT_DIR$/test/main/gpaCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/Class.java" />
         <option value="$PROJECT_DIR$/test/main/ClassTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Class.java" />
+        <option value="$PROJECT_DIR$/test/main/gpaCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/gpaCalculator.java" />
       </list>
     </option>
   </component>
@@ -138,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ClassTest">
+  <component name="RunManager" selected="JUnit.gpaCalculatorTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -165,52 +189,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ClassTest.AGradeAnd1UnitShouldBe4Point0GradePoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ACTUALFINAL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="main" />
-      <option name="MAIN_CLASS_NAME" value="main.ClassTest" />
-      <option name="METHOD_NAME" value="AGradeAnd1UnitShouldBe4Point0GradePoints" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ClassTest.FGradeAnd2UnitsShouldBe0Point0GradePoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ACTUALFINAL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="main" />
-      <option name="MAIN_CLASS_NAME" value="main.ClassTest" />
-      <option name="METHOD_NAME" value="FGradeAnd2UnitsShouldBe0Point0GradePoints" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -227,7 +205,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="gpaCalculatorTest.OneGroupOfPeopleShouldBeOneGroup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="gpaCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ACTUALFINAL" />
       <extension name="coverage">
         <pattern>
@@ -239,21 +217,84 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="main" />
       <option name="MAIN_CLASS_NAME" value="main.gpaCalculatorTest" />
-      <option name="METHOD_NAME" value="OneGroupOfPeopleShouldBeOneGroup" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs>
-        <env name="oauth.consumerKey" value="yQ1Silt9KxRig4HiMFEEs6DTK" />
-        <env name="oath.consumerSecret" value="&#9;wadA8ibVOlZepgESrAXV1jqBBI1BuzDeWWoTkiDGupMdq6dK7V " />
-        <env name="oath.accessToken" value="&#9;310059675-7QOZHjazJLXffSzlaKXeAm82wZeKW5n7oxtdPORT" />
-        <env name="oath.accessTokenSecret" value="zW9nYBnbHnCfodCrhMqpLq3iEvMBQeI6Oky0NYfFvIVoJ " />
-      </envs>
+      <patterns />
+    </configuration>
+    <configuration name="gpaCalculatorTest.APlusGradeAnd1UnitShouldBe4Point0GradePoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ACTUALFINAL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.gpaCalculatorTest" />
+      <option name="METHOD_NAME" value="APlusGradeAnd1UnitShouldBe4Point0GradePoints" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="gpaCalculatorTest.OneAPlusClassShouldBeA4Point0GPA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ACTUALFINAL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.gpaCalculatorTest" />
+      <option name="METHOD_NAME" value="OneAPlusClassShouldBeA4Point0GPA" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="gpaCalculatorTest.ZeroClassesShouldBeA0Point0GPA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ACTUALFINAL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.gpaCalculatorTest" />
+      <option name="METHOD_NAME" value="ZeroClassesShouldBeA0Point0GPA" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <patterns />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -279,17 +320,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.gpaCalculatorTest.OneGroupOfPeopleShouldBeOneGroup" />
-      <item itemvalue="JUnit.ClassTest.AGradeAnd1UnitShouldBe4Point0GradePoints" />
       <item itemvalue="JUnit.ClassTest" />
-      <item itemvalue="JUnit.ClassTest.FGradeAnd2UnitsShouldBe0Point0GradePoints" />
+      <item itemvalue="JUnit.gpaCalculatorTest" />
+      <item itemvalue="JUnit.gpaCalculatorTest.APlusGradeAnd1UnitShouldBe4Point0GradePoints" />
+      <item itemvalue="JUnit.gpaCalculatorTest.OneAPlusClassShouldBeA4Point0GPA" />
+      <item itemvalue="JUnit.gpaCalculatorTest.ZeroClassesShouldBeA0Point0GPA" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.gpaCalculatorTest" />
         <item itemvalue="JUnit.ClassTest" />
-        <item itemvalue="JUnit.ClassTest.FGradeAnd2UnitsShouldBe0Point0GradePoints" />
-        <item itemvalue="JUnit.ClassTest.AGradeAnd1UnitShouldBe4Point0GradePoints" />
-        <item itemvalue="JUnit.gpaCalculatorTest.OneGroupOfPeopleShouldBeOneGroup" />
+        <item itemvalue="JUnit.gpaCalculatorTest.ZeroClassesShouldBeA0Point0GPA" />
+        <item itemvalue="JUnit.gpaCalculatorTest.OneAPlusClassShouldBeA4Point0GPA" />
+        <item itemvalue="JUnit.gpaCalculatorTest.APlusGradeAnd1UnitShouldBe4Point0GradePoints" />
       </list>
     </recent_temporary>
   </component>
@@ -307,35 +350,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ClassTest - 2018.04.26 at 11h 20m 55s.xml">
-      <configuration name="ClassTest" configurationId="JUnit" />
+    <history-entry file="gpaCalculatorTest_APlusGradeAnd1UnitShouldBe4Point0GradePoints - 2018.04.26 at 11h 50m 16s.xml">
+      <configuration name="gpaCalculatorTest.APlusGradeAnd1UnitShouldBe4Point0GradePoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ClassTest - 2018.04.26 at 11h 21m 36s.xml">
-      <configuration name="ClassTest" configurationId="JUnit" />
+    <history-entry file="gpaCalculatorTest_APlusGradeAnd1UnitShouldBe4Point0GradePoints - 2018.04.26 at 11h 50m 20s.xml">
+      <configuration name="gpaCalculatorTest.APlusGradeAnd1UnitShouldBe4Point0GradePoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ClassTest - 2018.04.26 at 11h 21m 39s.xml">
-      <configuration name="ClassTest" configurationId="JUnit" />
+    <history-entry file="gpaCalculatorTest_APlusGradeAnd1UnitShouldBe4Point0GradePoints - 2018.04.26 at 13h 10m 01s.xml">
+      <configuration name="gpaCalculatorTest.APlusGradeAnd1UnitShouldBe4Point0GradePoints" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ClassTest - 2018.04.26 at 11h 24m 31s.xml">
-      <configuration name="ClassTest" configurationId="JUnit" />
+    <history-entry file="gpaCalculatorTest_OneAPlusClassShouldBeA4Point0GPA - 2018.04.26 at 13h 10m 07s.xml">
+      <configuration name="gpaCalculatorTest.OneAPlusClassShouldBeA4Point0GPA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ClassTest_FGradeAnd2UnitsShouldBe0Point0GradePoints - 2018.04.26 at 11h 24m 42s.xml">
-      <configuration name="ClassTest.FGradeAnd2UnitsShouldBe0Point0GradePoints" configurationId="JUnit" />
+    <history-entry file="gpaCalculatorTest_OneAPlusClassShouldBeA4Point0GPA - 2018.04.26 at 13h 10m 13s.xml">
+      <configuration name="gpaCalculatorTest.OneAPlusClassShouldBeA4Point0GPA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ClassTest_FGradeAnd2UnitsShouldBe0Point0GradePoints - 2018.04.26 at 11h 25m 35s.xml">
-      <configuration name="ClassTest.FGradeAnd2UnitsShouldBe0Point0GradePoints" configurationId="JUnit" />
+    <history-entry file="gpaCalculatorTest_OneAPlusClassShouldBeA4Point0GPA - 2018.04.26 at 13h 10m 19s.xml">
+      <configuration name="gpaCalculatorTest.OneAPlusClassShouldBeA4Point0GPA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ClassTest_FGradeAnd2UnitsShouldBe0Point0GradePoints - 2018.04.26 at 11h 25m 46s.xml">
-      <configuration name="ClassTest.FGradeAnd2UnitsShouldBe0Point0GradePoints" configurationId="JUnit" />
+    <history-entry file="gpaCalculatorTest_OneAPlusClassShouldBeA4Point0GPA - 2018.04.26 at 13h 11m 53s.xml">
+      <configuration name="gpaCalculatorTest.OneAPlusClassShouldBeA4Point0GPA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ClassTest - 2018.04.26 at 11h 25m 49s.xml">
-      <configuration name="ClassTest" configurationId="JUnit" />
+    <history-entry file="gpaCalculatorTest_ZeroClassesShouldBeA0Point0GPA - 2018.04.26 at 13h 11m 56s.xml">
+      <configuration name="gpaCalculatorTest.ZeroClassesShouldBeA0Point0GPA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ClassTest - 2018.04.26 at 11h 26m 00s.xml">
-      <configuration name="ClassTest" configurationId="JUnit" />
+    <history-entry file="gpaCalculatorTest_ZeroClassesShouldBeA0Point0GPA - 2018.04.26 at 13h 12m 46s.xml">
+      <configuration name="gpaCalculatorTest.ZeroClassesShouldBeA0Point0GPA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ClassTest - 2018.04.26 at 11h 26m 13s.xml">
-      <configuration name="ClassTest" configurationId="JUnit" />
+    <history-entry file="gpaCalculatorTest_ZeroClassesShouldBeA0Point0GPA - 2018.04.26 at 13h 12m 59s.xml">
+      <configuration name="gpaCalculatorTest.ZeroClassesShouldBeA0Point0GPA" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -375,7 +418,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/gpaCalculator.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -394,14 +445,12 @@
         <state relative-caret-position="315">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/gpaCalculator.java" />
-    <entry file="file://$PROJECT_DIR$/test/main/gpaCalculatorTest.java" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -409,23 +458,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Class.java">
+    <entry file="file://$PROJECT_DIR$/test/main/ClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="210">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/main/ClassTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        <state relative-caret-position="-56">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding>
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/main/gpaCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/gpaCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
           </folding>
         </state>
       </provider>
