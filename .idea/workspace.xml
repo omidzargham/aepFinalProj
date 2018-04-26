@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8239fdd6-6bfe-48d8-8c40-84710298b985" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/gpaCalculator.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test/main/ClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/main/ClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/main/gpaCalculatorTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +18,8 @@
       <file leaf-file-name="ClassTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/main/ClassTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+            <state relative-caret-position="289">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,8 +30,8 @@
       <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Class.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+            <state relative-caret-position="244">
+              <caret line="63" column="67" selection-start-line="63" selection-start-column="67" selection-end-line="63" selection-end-column="67" />
               <folding>
                 <element signature="e#1029#1030#0" expanded="true" />
                 <element signature="e#1095#1096#0" expanded="true" />
@@ -61,8 +59,8 @@
         <option value="$PROJECT_DIR$/test/main/TwitterBotTest.java" />
         <option value="$PROJECT_DIR$/test/main/gpaCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/gpaCalculator.java" />
-        <option value="$PROJECT_DIR$/src/main/Class.java" />
         <option value="$PROJECT_DIR$/test/main/ClassTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Class.java" />
       </list>
     </option>
   </component>
@@ -167,6 +165,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="ClassTest.Previous3Point5GPAWithOneNewClassShouldBe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ACTUALFINAL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.ClassTest" />
+      <option name="METHOD_NAME" value="Previous3Point5GPAWithOneNewClassShouldBe" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -197,29 +218,6 @@
       <option name="MAIN_CLASS_NAME" value="main.gpaCalculatorTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="gpaCalculatorTest.OneAPlusClassShouldBeA4Point0GPA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ACTUALFINAL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="main" />
-      <option name="MAIN_CLASS_NAME" value="main.gpaCalculatorTest" />
-      <option name="METHOD_NAME" value="OneAPlusClassShouldBeA4Point0GPA" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -300,17 +298,17 @@
     <list>
       <item itemvalue="JUnit.ClassTest" />
       <item itemvalue="JUnit.gpaCalculatorTest" />
-      <item itemvalue="JUnit.gpaCalculatorTest.OneAPlusClassShouldBeA4Point0GPA" />
       <item itemvalue="JUnit.gpaCalculatorTest.ZeroClassesShouldBeA0Point0GPA" />
       <item itemvalue="JUnit.gpaCalculatorTest.Previous4Point0GPAWithNoNewClassesShouldStay4Point0" />
+      <item itemvalue="JUnit.ClassTest.Previous3Point5GPAWithOneNewClassShouldBe" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ClassTest" />
+        <item itemvalue="JUnit.ClassTest.Previous3Point5GPAWithOneNewClassShouldBe" />
         <item itemvalue="JUnit.gpaCalculatorTest" />
         <item itemvalue="JUnit.gpaCalculatorTest.Previous4Point0GPAWithNoNewClassesShouldStay4Point0" />
         <item itemvalue="JUnit.gpaCalculatorTest.ZeroClassesShouldBeA0Point0GPA" />
-        <item itemvalue="JUnit.gpaCalculatorTest.OneAPlusClassShouldBeA4Point0GPA" />
       </list>
     </recent_temporary>
   </component>
@@ -328,24 +326,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="gpaCalculatorTest_Previous4Point0GPAWithNoNewClassesShouldStay4Point0 - 2018.04.26 at 14h 40m 17s.xml">
-      <configuration name="gpaCalculatorTest.Previous4Point0GPAWithNoNewClassesShouldStay4Point0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gpaCalculatorTest_Previous4Point0GPAWithNoNewClassesShouldStay4Point0 - 2018.04.26 at 14h 40m 28s.xml">
-      <configuration name="gpaCalculatorTest.Previous4Point0GPAWithNoNewClassesShouldStay4Point0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gpaCalculatorTest_Previous4Point0GPAWithNoNewClassesShouldStay4Point0 - 2018.04.26 at 14h 40m 40s.xml">
-      <configuration name="gpaCalculatorTest.Previous4Point0GPAWithNoNewClassesShouldStay4Point0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gpaCalculatorTest_Previous4Point0GPAWithNoNewClassesShouldStay4Point0 - 2018.04.26 at 14h 40m 49s.xml">
-      <configuration name="gpaCalculatorTest.Previous4Point0GPAWithNoNewClassesShouldStay4Point0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gpaCalculatorTest_Previous4Point0GPAWithNoNewClassesShouldStay4Point0 - 2018.04.26 at 14h 40m 56s.xml">
-      <configuration name="gpaCalculatorTest.Previous4Point0GPAWithNoNewClassesShouldStay4Point0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gpaCalculatorTest_Previous4Point0GPAWithNoNewClassesShouldStay4Point0 - 2018.04.26 at 14h 41m 04s.xml">
-      <configuration name="gpaCalculatorTest.Previous4Point0GPAWithNoNewClassesShouldStay4Point0" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="gpaCalculatorTest_Previous4Point0GPAWithNoNewClassesShouldStay4Point0 - 2018.04.26 at 14h 41m 07s.xml">
       <configuration name="gpaCalculatorTest.Previous4Point0GPAWithNoNewClassesShouldStay4Point0" configurationId="JUnit" />
     </history-entry>
@@ -357,6 +337,24 @@
     </history-entry>
     <history-entry file="gpaCalculatorTest - 2018.04.26 at 15h 08m 49s.xml">
       <configuration name="gpaCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="gpaCalculatorTest - 2018.04.26 at 15h 20m 48s.xml">
+      <configuration name="gpaCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest - 2018.04.26 at 15h 20m 53s.xml">
+      <configuration name="ClassTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest - 2018.04.26 at 15h 27m 01s.xml">
+      <configuration name="ClassTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest_Previous3Point5GPAWithOneNewClassShouldBe - 2018.04.26 at 15h 31m 08s.xml">
+      <configuration name="ClassTest.Previous3Point5GPAWithOneNewClassShouldBe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest_Previous3Point5GPAWithOneNewClassShouldBe - 2018.04.26 at 15h 38m 14s.xml">
+      <configuration name="ClassTest.Previous3Point5GPAWithOneNewClassShouldBe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest_Previous3Point5GPAWithOneNewClassShouldBe - 2018.04.26 at 15h 38m 17s.xml">
+      <configuration name="ClassTest.Previous3Point5GPAWithOneNewClassShouldBe" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -372,11 +370,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3296875" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -396,7 +394,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Class.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -439,17 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-          <folding>
-            <element signature="e#1029#1030#0" expanded="true" />
-            <element signature="e#1095#1096#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/main/gpaCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -460,10 +455,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="63" column="67" selection-start-line="63" selection-start-column="67" selection-end-line="63" selection-end-column="67" />
+          <folding>
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/main/ClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+        <state relative-caret-position="289">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

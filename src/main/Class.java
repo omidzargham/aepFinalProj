@@ -61,6 +61,6 @@ public class Class {
             totalGradePoints += thisClass.computeGradePoints();
             currentSemUnits += thisClass.units;
         }
-        return totalGradePoints / previousUnits + currentSemUnits;
+        return totalGradePoints / (previousUnits + currentSemUnits);
     }
 }

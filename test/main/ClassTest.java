@@ -51,4 +51,11 @@ public class ClassTest {
         assertEquals(4.00, Class.calculateGPA(4.00, 40, myClasses),.01);
     }
 
+    @Test
+    public void Previous3Point5GPAWithOneNewClassShouldBe() {
+        Class Chemistry = new Class(4, "B");
+        Class[] myClasses = new Class[] {Chemistry};
+        assertEquals(3.39, Class.calculateGPA(3.50, 15, myClasses),.01);
+    }
+
 }
