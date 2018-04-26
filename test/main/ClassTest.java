@@ -52,10 +52,16 @@ public class ClassTest {
     }
 
     @Test
-    public void Previous3Point5GPAWithOneNewClassShouldBe() {
+    public void Previous3Point5GPAWith4UnitClassWithGradeBShouldBe3Point39() {
         Class Chemistry = new Class(4, "B");
         Class[] myClasses = new Class[] {Chemistry};
         assertEquals(3.39, Class.calculateGPA(3.50, 15, myClasses),.01);
+    }
+
+    @Test
+    public void WillNeedA4PointAvg0With8UnitsThisSemToRaiseCumGPATo3Point8() {
+        double currentUnits = 8.0;
+        assertEquals(4.00, Class.calculateNecessaryGPA(3.7, 16, 3.8, currentUnits),.01);
     }
 
 }

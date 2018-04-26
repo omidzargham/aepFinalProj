@@ -32,6 +32,14 @@ public class Class {
         this.grade = grade;
     }
 
+    public static double calculateNecessaryGPA(double oldGPA, double oldUnits, double desiredGPA, double currentUnits) {
+        double currentGradePoints = oldGPA * oldUnits;
+        double totalUnits = oldUnits + currentUnits;
+        double gradePointsNeeded = desiredGPA * totalUnits;
+        return (gradePointsNeeded - currentGradePoints) / currentUnits;
+
+    }
+
 
     public double computeGradePoints() {
         return units * gradeToGradePointPerUnit.get(grade);
