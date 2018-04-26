@@ -64,4 +64,10 @@ public class ClassTest {
         assertEquals(4.00, Class.calculateNecessaryGPA(3.7, 16, 3.8, currentUnits),.01);
     }
 
+    @Test
+    public void WillNeedA3Point71Avg0With16UnitsThisSemToRaiseCumGPATo3Point5() {
+        double currentUnits = 16.0;
+        assertEquals(3.71, Class.calculateNecessaryGPA(3.4, 35, 3.5, currentUnits),.01);
+    }
+
 }
